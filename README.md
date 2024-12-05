@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me: prakruthingowda06@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: i like pineapple pizza...
+
 
 <!---
 Prakruthi-codes/Prakruthi-codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
