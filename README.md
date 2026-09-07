@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @Prakruthi-codes
+Prakruthi N
 
-- 🌱 I’m currently learning AI and ML
-- 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me: prakruthingowda06@gmail.com
-- 😄 Pronouns: she/her
+Engineering student focused on Artificial Intelligence, Machine Learning, and software systems. 
 
+**Focus Areas:** AI/ML systems engineering, intelligent automation, and full-stack integration.
 
-<!---
-Prakruthi-codes/Prakruthi-codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Collaboration:** Open-source projects, system design, and applied machine learning research.
+
+ **Contact:** [prakruthingowda06@gmail.com](mailto: prakruthingowda06@gmail.com)
